@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "Household energy insecurity and residential energy intensity: analysis code for RECS 2020/2015"
+authors:
+  - family-names: "Xu"
+    given-names: "Xiaoxiao"
+version: "1.0"
+date-released: "2026-11-06"
+license: MIT
+# After the first GitHub release is archived on Zenodo, add:
+# doi: 10.5281/zenodo.XXXXXXX

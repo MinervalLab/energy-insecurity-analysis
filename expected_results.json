@@ -1,0 +1,116 @@
+{
+ "table2": {
+  "M0 Unadjusted (log scale)": [
+   0.104,
+   0.0005
+  ],
+  "M2 +Income/dwelling/fuel/tenure": [
+   0.059,
+   0.0005
+  ],
+  "M4 +Thermostat behaviour": [
+   0.057,
+   0.0005
+  ],
+  "State fixed effects": [
+   0.0534,
+   0.0005
+  ],
+  "Source-energy accounting (elec x 2.80)": [
+   0.0695,
+   0.0005
+  ],
+  "TOTSQFT_EN floor-area basis (own trim)": [
+   0.0608,
+   0.0005
+  ],
+  "M2, no intensity trim (sensitivity)": [
+   0.0606,
+   0.0005
+  ]
+ },
+ "table3": {
+  "gap": [
+   0.104,
+   0.0005
+  ],
+  "explained": [
+   0.0469,
+   0.0005
+  ],
+  "unexplained": [
+   0.057,
+   0.0005
+  ],
+  "ex_structure": [
+   0.1051,
+   0.0005
+  ]
+ },
+ "table4": {
+  "Any insecurity vs secure (baseline)": [
+   0.059,
+   0.0005
+  ],
+  "Severe insecurity vs secure": [
+   0.0987,
+   0.0005
+  ],
+  "Any temperature difficulty vs secure": [
+   0.0266,
+   0.0005
+  ],
+  "Financial difficulty only vs secure (mutually exclusive)": [
+   0.0853,
+   0.0005
+  ],
+  "Temperature difficulty only vs secure (mutually exclusive)": [
+   -0.0278,
+   0.0005
+  ],
+  "Financial and temperature difficulty vs secure (mutually exclusive)": [
+   0.0403,
+   0.0005
+  ],
+  "Premium, owner-occupied (KOWNRENT=1, interaction ref.)": [
+   0.0338,
+   0.0005
+  ],
+  "Premium, renter-occupied": [
+   0.0949,
+   0.0005
+  ]
+ },
+ "table5": {
+  "2015 M2 +Income/dwelling/fuel/tenure": [
+   0.0724,
+   0.0005
+  ],
+  "2015 Any temperature difficulty vs secure": [
+   0.0452,
+   0.0005
+  ],
+  "2015 Temperature difficulty only vs secure (mutually exclusive)": [
+   -0.0916,
+   0.0005
+  ]
+ },
+ "counterfactual": {
+  "above-benchmark insecure households (M; among benchmarkable)": [
+   18.24,
+   0.05
+  ],
+  "median-capping scenario: energy (TBtu/yr; accounting quantity, NOT identified savings)": [
+   500.98,
+   0.05
+  ],
+  "identified double-burden households (M; among benchmarkable)": [
+   6.5,
+   0.05
+  ],
+  "coefficient-scaled scenario (M4 beta): bills ($B/yr; assumes proportional bill changes)": [
+   3.11,
+   0.05
+  ]
+ }
+}
